@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Soubheek
-#### 👀 I’m interested in Data Analyst
+#### 👀 I’m interested in Data Analyst/Science
 #### 🌱 I’m currently learning Data Analytical skill
 #### 📫 How to reach me soubheek@gmail.com
 <!--
